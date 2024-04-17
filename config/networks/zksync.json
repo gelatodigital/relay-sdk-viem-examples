@@ -1,0 +1,14 @@
+{
+  "interval": 1800,
+  "addresses": {
+    "gelatoRelayERC2771": "0x22DCC39b2AC376862183dd35A1664798dafC7Da6",
+    "gelatoRelay1BalanceERC2771": "0x97015cD4C3d456997DD1C40e2a18c79108FCc412",
+    "gelatoRelayConcurrentERC2771": "0xBa4082F4961c8Fb76231995C967CD9aa40f321b5",
+    "gelatoRelay1BalanceConcurrentERC2771": "0xB8828e4c662D1a7e4f3d1f622EfAE6B63D852ED8",
+    "counterRelayContext": "0x29380453167FA64D9C2E2f26Ecdfe47F1B46f5aa",
+    "counterRelayContextERC2771": "0x773c5b7bcF08C066F1173c596A9F06e45AAa3DC0",
+    "counterERC2771": "0xCd39D6DD87EBBD1f0943782e9119Fa71712eA178",
+    "simpleCounter": "0x0eF2209B071FB4E58c2196373f630FF968755661",
+    "feeToken": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "hardhat": "^2.19.3"
+  },
+  "scripts": {
+    "sponsoredCall": "ts-node --project ./tsconfig.json scripts/sponsoredCall.ts",
+    "sponsoredCallERC2771": "ts-node --project ./tsconfig.json scripts/sponsoredCallERC2771.ts",
+    "sponsoredCallERC2771ConcurrentRequest": "ts-node --project ./tsconfig.json scripts/sponsoredCallERC2771ConcurrentRequest.ts",
+    "sponsoredCallERC2771WithSignature": "ts-node --project ./tsconfig.json scripts/sponsoredCallERC2771WithSignature.ts",
+    "callWithSyncFee": "ts-node --project ./tsconfig.json scripts/callWithSyncFee.ts",
+    "callWithSyncFeeERC2771": "ts-node --project ./tsconfig.json scripts/callWithSyncFeeERC2771.ts",
+    "callWithSyncFeeERC2771WithSignature": "ts-node --project ./tsconfig.json scripts/callWithSyncFeeERC2771WithSignature.ts"
+  },
+  "dependencies": {
+    "@gelatonetwork/relay-sdk-viem": "portal:C:\\Users\\aniru\\OneDrive\\Desktop\\Gelato_internship\\Gelato\\relay-sdk-viem",
+    "dotenv": "^16.4.5"
+  }
+}

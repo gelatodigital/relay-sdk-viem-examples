@@ -1,0 +1,21 @@
+{
+  "interval": 1800,
+  "addresses": {
+    "gelatoRelayERC2771": "0xb539068872230f20456CF38EC52EF2f91AF4AE49",
+    "gelatoRelay1BalanceERC2771": "0xd8253782c45a12053594b9deB72d8e8aB2Fca54c",
+    "gelatoRelayConcurrentERC2771": "0x8598806401A63Ddf52473F1B3C55bC9E33e2d73b",
+    "gelatoRelay1BalanceConcurrentERC2771": "0xc65d82ECE367EF06bf2AB791B3f3CF037Dc0e816",
+    "devGelatoRelayERC2771": "0x1c256822A1789589013Af03574179414332df567",
+    "devGelatoRelay1BalanceERC2771": "0x68ccbC59137eAD6Ccc510cf7fb64c1Beeda306D9",
+    "devGelatoRelayConcurrentERC2771": "0x676672539d45ad93720C822EcafA9F7f1a0D8546",
+    "devGelatoRelay1BalanceConcurrentERC2771": "0x90c1aCC7EfBcf3859944D859F1185978fE73a941",
+    "counterRelayContext": "0x730615186326cF8f03E34a2B49ed0f43A38c0603",
+    "counterRelayContextERC2771": "0x5dD1100f23278e0e27972eacb4F1B81D97D071B7",
+    "counterERC2771": "0x00172f67db60E5fA346e599cdE675f0ca213b47b",
+    "simpleCounter": "0xEEeBe2F778AA186e88dCf2FEb8f8231565769C27",
+    "devCounterRelayContext": "0xaA48719f071476bA4448b0B9228d152Dca76B708",
+    "devCounterRelayContextERC2771": "0x250b6fF52F1e38Bc5a195836a536b6562432c968",
+    "devCounterERC2771": "0x6a28226107d8Fbd0495b695D31E89D37afc6782E",
+    "feeToken": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+  }
+}
