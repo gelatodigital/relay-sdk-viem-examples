@@ -14,7 +14,7 @@
     "callWithSyncFeeERC2771WithSignature": "ts-node --project ./tsconfig.json scripts/callWithSyncFeeERC2771WithSignature.ts"
   },
   "dependencies": {
-    "@gelatonetwork/relay-sdk-viem": "portal:C:\\Users\\aniru\\OneDrive\\Desktop\\Gelato_internship\\Gelato\\relay-sdk-viem",
+    "@gelatonetwork/relay-sdk-viem": "^1.0.1",
     "dotenv": "^16.4.5"
   }
 }
