@@ -1,14 +1,11 @@
-/* This script is not running as expected. It is not able to get the chainId from the client*/
-
 import {
   CallWithERC2771Request,
   GelatoRelay,
 } from "@gelatonetwork/relay-sdk-viem";
 import { createWalletClient, http, encodeFunctionData, Hex } from "viem";
 import { privateKeyToAccount } from "viem/accounts";
-import { sepolia } from "viem/chains";
 import * as dotenv from "dotenv";
-import { Contract, BytesLike } from "ethers";
+import { BytesLike } from "ethers";
 dotenv.config({ path: ".env" });
 import { counterAbi } from "../utils/counterAbi";
 import config from "../config/networks/sepolia.json";

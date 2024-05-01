@@ -7,8 +7,8 @@ import { privateKeyToAccount } from "viem/accounts";
 import { mainnet, polygonAmoy, sepolia } from "viem/chains";
 import * as dotenv from "dotenv";
 dotenv.config({ path: ".env" });
-import { counterAbi } from "../utils/counterAbi";
-import config from "../config/networks/sepolia.json";
+import { counterAbi } from "../../utils/counterAbi";
+import config from "../../config/networks/sepolia.json";
 const privateKey = process.env.PRIVATE_KEY;
 
 // 2. Set up your client with desired chain & transport.
